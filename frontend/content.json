@@ -6,7 +6,9 @@
     "region": "Bourgogne du Sud · Saône-et-Loire",
     "motto": "Votre séjour, notre priorité",
     "logo": "images/logo.png",
-    "bookingUrl": "https://reservation.logementsparay.fr"
+    "bookingUrl": "https://reservation.logementsparay.fr",
+    "reviewUrlBooking": "https://www.booking.com/hotel/fr/cozy-zen-de-paray.fr.html",
+    "reviewUrlAirbnb": "https://www.airbnb.fr/rooms/573522256812351648"
   },
   "welcome": {
     "title": "Bienvenue",
@@ -678,17 +680,83 @@
     "practical",
     "rules",
     "departure",
+    "goodbye",
     "comfort",
-    "gallery",
+    "eat",
     "discover",
     "stroll",
-    "eat",
     "drinks",
     "services",
     "shops",
     "escapes",
     "digoinCharolles",
-    "numbers",
-    "goodbye"
-  ]
+    "gallery",
+    "numbers"
+  ],
+  "reviews": {
+    "intro": "Un aperçu sincère de ce que nos voyageurs retiennent de leur séjour.",
+    "source": "Booking.com",
+    "items": [
+      {
+        "author": "Benoit",
+        "country": "France",
+        "score": "9,0",
+        "text": "Le gîte spacieux, très propre et calme."
+      },
+      {
+        "author": "Catherine",
+        "country": "France",
+        "score": "8,0",
+        "text": "Un appartement avec un grand salon et deux chambres, une des chambres donne sur des jardins, elle est très calme. On se gare très facilement dans le quartier."
+      },
+      {
+        "author": "Denis",
+        "country": "France",
+        "score": "8,0",
+        "text": "Le confort de la literie a été très apprécié. Appartement très calme, pas de bruit."
+      },
+      {
+        "author": "Christian",
+        "country": "France",
+        "score": "8,0",
+        "text": "Appartement spacieux, propre, dans une rue calme."
+      },
+      {
+        "author": "Odile",
+        "country": "France",
+        "score": "7,0",
+        "text": "L'emplacement était parfait, les échanges avec le propriétaire et la procédure d'entrée de manière autonome, rien à redire."
+      },
+      {
+        "author": "Patrice",
+        "country": "France",
+        "score": "7,0",
+        "text": "Très bonne situation, très spacieux."
+      },
+      {
+        "author": "Grégory",
+        "country": "France",
+        "score": "7,0",
+        "text": "L'espace, la literie. Le calme."
+      },
+      {
+        "author": "Sebastien",
+        "country": "France",
+        "score": "7,0",
+        "text": "Appartement de bonne taille. Les lits sont agréables."
+      },
+      {
+        "author": "Charlotte",
+        "country": "France",
+        "score": "6,0",
+        "text": "Le logement était propre, informations communiquées rapidement avant l'entrée dans le domicile, arrivée et départ autonome."
+      },
+      {
+        "author": "Parent",
+        "country": "France",
+        "score": "6,0",
+        "text": "L'espace, vu le prix, la décoration. La réactivité du propriétaire."
+      }
+    ]
+  }
 }
