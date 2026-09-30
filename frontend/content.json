@@ -1,7 +1,7 @@
 {
   "meta": {
     "apartmentName": "Le Cosy Zen",
-    "tagline": "Un cocon paisible qui cache une chambre flamboyante.",
+    "tagline": "Un cocon paisible qui révèle le charme des anciens quartiers de Paray le Monial",
     "city": "Paray-le-Monial",
     "region": "Bourgogne du Sud · Saône-et-Loire",
     "motto": "Votre séjour, notre priorité",
@@ -30,9 +30,9 @@
     },
     "address": {
       "full": "7 rue Paul Cambon, 71600 Paray-le-Monial",
-      "floor": "",
+      "floor": "1er étage porte de gauche",
       "buildingCode": "",
-      "parking": "Stationnement gratuit à proximité immédiate du logement."
+      "parking": "Stationnement gratuit à proximité immédiate du logement. (Devant ou sur les côtés du bâtiment)"
     },
     "assistance": {
       "phones": [
@@ -48,9 +48,8 @@
       {
         "title": "Cuisine & électroménager",
         "items": [
-          "Réfrigérateur / congélateur, plaques à induction et hotte à disposition.",
-          "Four / micro-ondes : notice à côté de l'appareil.",
-          "Lave-vaisselle : pastilles fournies sous l'évier.",
+          "Réfrigérateur / congélateur, plaques gaz ",
+          "Four micro-ondes",
           "Cafetière Tassimo, bouilloire, grille-pain, ustensiles et vaisselle dans les placards."
         ]
       },
@@ -67,16 +66,15 @@
       {
         "title": "Multimédia",
         "items": [
-          "Télévision HD : allumez avec la télécommande principale.",
+          "Télévision : allumez avec la télécommande principale.",
           "Wi-Fi fibre optique haut débit dans tout le logement (codes ci-dessus)."
         ]
       },
       {
         "title": "Linge & entretien",
         "items": [
-          "Lave-linge : lessive à disposition.",
           "Linge de lit et de toilette fournis.",
-          "Aspirateur, balai et produits ménagers dans le placard d'entrée."
+          "Aspirateur, balai et produits ménagers dans le placard de la chambre"
         ]
       },
       {
