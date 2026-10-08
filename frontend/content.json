@@ -677,6 +677,7 @@
   },
   "sectionOrder": [
     "welcome",
+    "earlyLate",
     "practical",
     "rules",
     "departure",
@@ -758,5 +759,14 @@
         "text": "L'espace, vu le prix, la décoration. La réactivité du propriétaire."
       }
     ]
+  },
+  "earlyLate": {
+    "enabled": true,
+    "standardCheckIn": 16,
+    "standardCheckOut": 11,
+    "earliestArrival": 12,
+    "latestDeparture": 15,
+    "pricePerHour": 5,
+    "notifyEmail": "bpf.immo71@gmail.com"
   }
 }
